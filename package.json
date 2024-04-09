@@ -1,5 +1,5 @@
 {
-  "name": "react-custom-roulette",
+  "name": "@Boriska420/react-custom-roulette",
   "version": "1.4.1",
   "description": "Customizable React roulette wheel with spinning animation",
   "main": "./dist/bundle.js",
